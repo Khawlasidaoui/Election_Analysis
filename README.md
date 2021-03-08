@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##Overview of Election Audit
+## Overview of Election Audit
 To complete the election audit of a congressional election, python is used to read data from a .csv file and perfom the following tasks:
 
 * Get the total numbers of votes cast.
